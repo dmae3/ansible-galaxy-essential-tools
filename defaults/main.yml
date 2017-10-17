@@ -1,0 +1,24 @@
+---
+essential_tools:
+  - name: git
+    version: '*'
+  - name: jq
+    version: '*'
+  - name: vim-enhanced
+    version: '*'
+  - name: lsof
+    version: '*'
+  - name: dstat
+    version: '*'
+  - name: sysstat
+    version: '*'
+  - name: htop
+    version: '*'
+  - name: iotop
+    version: '*'
+  - name: strace
+    version: '*'
+  - name: bash-completion
+    version: '*'
+  - name: zsh
+    version: '*'
