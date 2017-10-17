@@ -27,7 +27,7 @@ Example Playbook
 - hosts: all
   become: true
   roles:
-    - role: redmage-essential-tools
+    - role: essential-tools
       essential_tools:
         - name: git
           version: 1.8.3.1-6.el7_2.1
